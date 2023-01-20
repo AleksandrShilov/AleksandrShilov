@@ -10,10 +10,11 @@
 
 ### 🛠 Tech stack  &nbsp;
 
-<img alt="Coding" height="150em" src="Image/JXA0.gif" align="right"/>
+<img alt="Coding" height="160em" src="Image/JXA0.gif" align="right"/>
 
-<img height="35em" src="https://img.icons8.com/color/48/null/c-plus-plus-logo.png"/>&nbsp;
-<img height="35em" src="Image/qt.png"/> &nbsp; 
-<img height="35em" src="https://img.icons8.com/color/48/null/git.png"/>&nbsp; \
-<img height="35em" src="https://img.icons8.com/color/48/null/linux--v1.png"/>
-<img height="35em" src="Image/github.png"/> 
+![CPlusPlus](https://img.shields.io/badge/-C++-05122A?style=flat&logo=CPlusPlus&color=blue)&nbsp;
+![Qt](https://img.shields.io/badge/-Qt-05122A?style=flat&logo=Qt&color=white)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=Git&color=ffb860)&nbsp;
+
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux&color=5e3c30)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=GitHub&color=black)&nbsp;

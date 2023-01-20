@@ -1,16 +1,20 @@
-### Hi there 👋
+<img  src="/home/wilfordd/Загрузки/Fringer2423-main/assets/Banner.jpg"/>&nbsp;
 
-<!--
-**AleksandrShilov/AleksandrShilov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img alt="Hi" src="./assets/wave.gif" width='40' align="left"/><h2>Hello World! I'm Aleksander</h2>
+***
 
-Here are some ideas to get you started:
+### 👨🏻‍💻&nbsp; About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 I'm currently studying new technologies.    
+💻 I like to write code. And I want to improve my skills.        
+
+
+### 🛠 Tech stack  &nbsp;
+
+<img alt="Coding" height="150em" src="/home/wilfordd/Загрузки/Fringer2423-main/assets/JXA0.gif" align="right"/>
+
+<img height="35em" src="https://img.icons8.com/color/48/null/c-plus-plus-logo.png"/>&nbsp;
+<img height="35em" src="/home/wilfordd/Загрузки/Fringer2423-main/assets/qt.png"/> &nbsp; 
+<img height="35em" src="https://img.icons8.com/color/48/null/git.png"/>&nbsp; \
+<img height="35em" src="https://img.icons8.com/color/48/null/linux--v1.png"/>
+<img height="35em" src="/home/wilfordd/Загрузки/Fringer2423-main/assets/github.png"/> 

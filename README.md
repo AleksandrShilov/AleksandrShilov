@@ -14,7 +14,7 @@
 <img alt="Coding" height="150em" src="/home/wilfordd/Загрузки/Fringer2423-main/assets/JXA0.gif" align="right"/>
 
 <img height="35em" src="https://img.icons8.com/color/48/null/c-plus-plus-logo.png"/>&nbsp;
-<img height="35em" src="/home/wilfordd/Загрузки/Fringer2423-main/assets/qt.png"/> &nbsp; 
+<img height="35em" src="./images/qt.png"/> &nbsp; 
 <img height="35em" src="https://img.icons8.com/color/48/null/git.png"/>&nbsp; \
 <img height="35em" src="https://img.icons8.com/color/48/null/linux--v1.png"/>
 <img height="35em" src="/home/wilfordd/Загрузки/Fringer2423-main/assets/github.png"/> 
